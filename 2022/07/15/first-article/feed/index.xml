@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Who needs plugin	</title>
-	<atom:link href="/2022/07/15/first-article/feed/" rel="self" type="application/rss+xml" />
-	<link>/2022/07/15/first-article/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>My WordPress Blog</description>
 	<lastBuildDate>Fri, 15 Jul 2022 23:02:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
