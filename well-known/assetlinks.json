@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "ga.steakhouse.twa",
+                     "sha256_cert_fingerprints": ["85:2C:C8:C7:76:71:55:8C:1C:55:F9:6E:92:5E:A0:AE:A1:A2:63:22:3D:59:85:35:07:84:89:83:AD:DF:39:B5"] }
+      }
+]
